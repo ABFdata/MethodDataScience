@@ -6,3 +6,6 @@ notes
 
 # ignore HomeCreditDefaultRisk/data
 HomeCreditDefaultRisk/data
+
+# ignore HomeCreditDefaultRisk/application_test.html
+HomeCreditDefaultRisk/application_test.html
