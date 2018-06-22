@@ -1,0 +1,8 @@
+# ignore .DS_Store
+.DS_Store
+
+# ignore notes
+notes
+
+# ignore HomeCreditDefaultRisk/data
+HomeCreditDefaultRisk/data
