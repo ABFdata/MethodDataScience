@@ -2,7 +2,7 @@
 
 ## Coma Berenices
 
-![Coma-Cluster](img/coma_cluster.jpg)
+![Coma-Cluster](img/coma2.png)
 
 Welcome to our [Method Data Science](http://www.methoddatascience.com/) repository. 
 
