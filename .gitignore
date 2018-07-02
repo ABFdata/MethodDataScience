@@ -9,3 +9,6 @@ HomeCreditDefaultRisk/data
 
 # ignore HomeCreditDefaultRisk/application_test.html
 HomeCreditDefaultRisk/application_test.html
+
+# ignore data dir in PhotoPharmics
+PhotoPharmics/data
